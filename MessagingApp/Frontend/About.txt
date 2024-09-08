@@ -1,0 +1,1 @@
+React app which allows users to connect to the same group and chat with one another.
