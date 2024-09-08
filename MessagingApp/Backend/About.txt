@@ -1,0 +1,1 @@
+Spring Boot application that uses a Kafka cluster to send and receive messages on a specific Kafka topic.
